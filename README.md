@@ -39,6 +39,9 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 - Ensure that the Q output follows the D input on the rising edge of the clock signal.
 
 ## Circuit Diagram
+### 1. Tri State D Flip-Flop
+![image](https://github.com/user-attachments/assets/754f379b-aa5a-4467-a52e-bdf1853804f1)
+
 
 ### 1. Schematic of D Flip-Flop
 ![hhhh](https://github.com/user-attachments/assets/ded113be-dcfc-4aba-89d7-c1b303b590d5)
